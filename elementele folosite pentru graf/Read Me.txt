@@ -1,0 +1,1 @@
+Pentru a folosi datele din acest folder doar selecteaza un fisier.txt pune-l pe desktop si sterge paranteza. Folderul trebuie sa fie denumit doar "data".
